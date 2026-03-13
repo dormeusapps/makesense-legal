@@ -39,4 +39,4 @@ We may update these Terms of Use at any time. Updated terms will be posted on th
 For questions regarding these Terms of Use, contact:
 
 dormeusapps  
-(Add support email later)
+support@dormeusapps.com
