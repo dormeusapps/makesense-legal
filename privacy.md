@@ -32,4 +32,4 @@ We may update this Privacy Policy from time to time. Updates will be posted on t
 If you have questions about this Privacy Policy, you may contact:
 
 dormeusapps  
-(Add your support email later)
+support@dormeusapps.com
