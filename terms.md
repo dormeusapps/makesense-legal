@@ -1,5 +1,5 @@
 # MakesSense Terms of Use
-Effective Date: February 6, 2026
+Effective Date: March 22, 2026
 
 ## Acceptance of Terms
 By using the MakesSense application, you agree to these Terms of Use. If you do not agree, please do not use the app.
