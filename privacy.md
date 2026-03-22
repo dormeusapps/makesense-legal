@@ -1,5 +1,5 @@
 # MakesSense Privacy Policy
-Effective Date: February 6, 2026
+Effective Date: March 22, 2026
 
 MakesSense is a teaching-first math learning application. We respect your privacy and design the app to minimize data collection.
 
